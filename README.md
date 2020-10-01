@@ -22,14 +22,16 @@
   2. Click On Path -> Edit
   
   3. Click New -> Paste without quotes "C:\bin" -> Ok -> Ok
+  
+  
  
 * Python 3.6
   https://www.python.org/downloads/windows/
   * Extra Python Libraries Required
     * Selenium
     
-   To install library open CMD and run
-   "pip install selenium"
+   -To install library open CMD and run
+    "pip install selenium"
    
     
     Don't Forget to Fork the repository and suggest changes.
